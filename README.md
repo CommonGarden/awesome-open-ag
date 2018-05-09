@@ -4,6 +4,7 @@ An evolving list of awesome Open Agriculture related things. Feel free to make P
 ## Open Hardware
 * [Open source ecology](http://opensourceecology.org/) An amazing comunity with tons of relevant projects
 * [MIT Open Agriculture Initiative](http://openag.media.mit.edu/) Food computer central, large open ag community
+* [+Farm](http://www.plus.farm/) Open designs for various hydroponics systems
 * [Open Hydroponics](http://openhydroponics.org/) variouse hardware designs for lights grow systems etc.
 * [Aker](http://aker.me/) raised bed garden systems, bee hives, and more.
 * [Farmbot](http://farmbot.io/) a farming robot!
