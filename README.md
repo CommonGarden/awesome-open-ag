@@ -1,4 +1,4 @@
-# awesome-open-ag
+#awesome-open-ag
 An evolving list of awesome Open Agriculture related things. Feel free to make PRs with suggestions.
 
 ## Open Hardware
@@ -10,6 +10,7 @@ An evolving list of awesome Open Agriculture related things. Feel free to make P
 * [Farmbot](http://farmbot.io/) a farming robot!
 * [3Dponics](https://www.3dponics.com/) 3D printing + Hydroponics!
 * [Astroplant](http://www.astroplant.io/) educational grow system
+* [SpeedSeed 3](https://github.com/PhenoTIPI/SpeedSeed3) Low cost, bench-top controlled speed breeding system. 
 
 ## Farm management software
  * [Ekylibre](https://github.com/ekylibre/ekylibre) - 
