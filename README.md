@@ -1,4 +1,5 @@
-#awesome-open-ag
+# awesome-open-ag
+
 An evolving list of awesome Open Agriculture related things. Feel free to make PRs with suggestions.
 
 ## Open Hardware
@@ -19,3 +20,4 @@ Ekylibre is a simple enterprise management web application for farmers and small
 * [Tania](https://github.com/Tanibox/tania-core) - Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress.
 * [FarmData](https://farmdata.dickinson.edu/guest.php) - FarmData is a free open farm management tool to help operate a farm.
 * [ISOBlue](https://www.isoblue.org/) - ISOBlue is a open source solution for connected farm machinery.
+* [openRAL](https://open-ral.io/) - openRAL is a free and open source digital description language for all objects and processes in agriculture and base for the "Smart Farming" ISO standard.
